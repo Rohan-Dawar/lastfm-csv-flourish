@@ -1,7 +1,7 @@
 import csv, arrow
 from pandas import read_csv
 
-your_csv_filename = 'lastfm-aug19.csv'
+your_csv_filename = 'example.csv'
 
 def prep_csv(filename):
    df = read_csv(filename)

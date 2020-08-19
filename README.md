@@ -10,7 +10,7 @@
 5. Move the .csv file into the same directory as the lastFMScript.py file
 6. In lastFMScript.py change the variable **your_csv_filename** to the name of your .csv file
 7. Run lastFMScript.py
-9. Upload the processed .csv file to [Flourish](https://flourish.studio/)
+9. Upload the processed .csv file to [Flourish](https://flourish.studio/) for [Bar-Chart Race](https://app.flourish.studio/@flourish/bar-chart-race)
 
 ### Built With
 * [Arrow](https://arrow.readthedocs.io/en/stable/) - Better datetimes

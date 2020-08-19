@@ -1,4 +1,7 @@
-# LastFM - CSV - Flourish Script
+# LastFM - CSV - Flourish BCR Script
+
+### About
+This script converts a last.fm .csv into Flourish-readable data for a Bar-Chart Race animation
 
 ### Getting Started
 1. Have a [last.fm](https://www.last.fm) Account with some scrobbles
